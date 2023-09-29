@@ -27,4 +27,4 @@ instalação do jdk e maven: https://www.youtube.com/watch?v=Ge7Em4byou8&list=PL
 Ininicalização do projeto spring com o Maven pelo vscode: https://www.youtube.com/watch?v=-UpIRFONkjs&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY&index=14
 	
 
-ao criar os projetos, substitua o src do seu projeto pelo src(do arquivo spring) do github
+ao criar os projetos, substitua a pasta do seu projeto angular pela do github
