@@ -28,3 +28,5 @@ Ininicalização do projeto spring com o Maven pelo vscode: https://www.youtube.
 	
 
 ao criar os projetos, substitua a pasta do seu projeto angular pela do github
+
+![image](https://github.com/pedrogones/TestandoRepositorio/assets/70417307/b57a0aca-00b6-48e8-98b8-36ec72bb53dc)
